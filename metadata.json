@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Lottery Oracle",
+  "description": "A high-performance lottery analysis tool using Markov Chains and Monte Carlo simulations (1M trials) for Super Lotto, Double Color Ball, and Happy 8, with AI-driven trend insights.",
+  "requestFramePermissions": []
+}
